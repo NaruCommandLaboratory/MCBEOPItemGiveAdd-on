@@ -2,7 +2,7 @@
 
 ScriptAPIを使ったUI型で使いやすいOPアイテム入手アドオンです。
 
-![Image](https://github.com/user-attachments/assets/318fa03d-f447-4c6f-bb5f-a00206708e9c)
+![Image](https://github.com/user-attachments/assets/daecaeb7-7729-4bfd-9127-189c9e186002)
 
 [ダウンロードはこちらから](https://github.com/NaruCommandLaboratory/OPItemGiveAdd-on/releases/tag/v1.0.0) 
 
