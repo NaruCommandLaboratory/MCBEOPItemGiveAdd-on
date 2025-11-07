@@ -1,0 +1,2 @@
+# MCBEOPItemGiveAdd-on
+ScriptAPIを使ったUI型で使いやすいOPアイテム入手アドオンです。
