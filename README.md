@@ -4,7 +4,7 @@ ScriptAPIを使ったUI型で使いやすいOPアイテム入手アドオンで�
 
 ![Image](https://github.com/user-attachments/assets/daecaeb7-7729-4bfd-9127-189c9e186002)
 
-[ダウンロードはこちらから](https://github.com/NaruCommandLaboratory/OPItemGiveAdd-on/releases/tag/v1.0.0) 
+[ダウンロードはこちらから](https://github.com/NaruCommandLaboratory/MCBEOPItemGiveAdd-on/releases/tag/v1.0.0)) 
 
 # 使い方 
 
