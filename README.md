@@ -59,8 +59,8 @@ A, アドオンを抜いてもう一度入れてみてください（それで�
 
 YouTube↓↓ 
 
-https://www.youtube.com/@CommanderNaru 
+[https://www.youtube.com/@NaruCmdLab](https://www.youtube.com/@NaruCmdLab)
 
 Discord↓↓ 
 
-https://discord.gg/98vzZsArdc
+[https://discord.gg/98vzZsArdc](https://discord.gg/98vzZsArdc)
