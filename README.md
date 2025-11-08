@@ -57,6 +57,8 @@ A, アドオンを抜いてもう一度入れてみてください（それで�
 
 主にYouTubeでMinecraftBedrock版のコマンドを紹介しています。 
 
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/987a6c63-0ec1-4b61-92bc-8553f0a687e4" />
+
 YouTube↓↓ 
 
 [https://www.youtube.com/@NaruCmdLab](https://www.youtube.com/@NaruCmdLab)
